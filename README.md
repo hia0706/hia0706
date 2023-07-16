@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
   <br>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" />
 </p> 
 
