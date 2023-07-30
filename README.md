@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&height=150&fontSize=30&animation=twinkling&text=안녕하세요%20백엔드%20개발자%20이진서입니다%20🧑‍💻)
+![](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&height=150&fontSize=30&animation=twinkling&text=안녕하세요%20웹%20개발자%20이진서입니다%20🧑‍💻)
 
 <a href="https://github.com/hia0706"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshia0706&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 <p>
