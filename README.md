@@ -4,7 +4,7 @@
 
 <a href="https://github.com/hia0706"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshia0706&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 <p>
-<a href="https://hia0706.github.io/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat&logo=github&logoColor=f0f0f0"/></a>
+<a href="https://hia0706.github.io/"><img src="https://img.shields.io/badge/blog-000000?style=flat&logo=github&logoColor=f0f0f0"/></a>
 <a href="mailto:ljjs1215@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ljjs1215@gmail.com"/></a>
 </p>
   
