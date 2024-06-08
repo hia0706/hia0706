@@ -37,7 +37,7 @@
 <div>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hia0706&show_icons=true&theme=tokyonight)
-  
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljjs0121)](https://solved.ac/ljjs0121/)
 </div>
 
 </div>
